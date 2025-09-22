@@ -30,5 +30,5 @@ This project is designed to demonstrate **Python programming, GUI development, a
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YourGitHubUsername/student-management-system.git
+   git clone https://github.com/Vengadesan8/Student-Management-System.git
    cd Student-Management-System
